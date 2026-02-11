@@ -16,6 +16,7 @@ export default function Page() {
       "Are you sure?",
       "What if I asked really nicely?",
       "Pretty please",
+      "пожалуйста",
       "With a chocolate rice cake on top",
       "What about a franui?",
       "PLEASE POOKIE",
@@ -39,7 +40,8 @@ export default function Page() {
       {yesPressed ? (
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-          <div className="my-4 text-4xl font-bold">WOOOO!!! I love you mi amor!! ;))</div>
+          <img src="https://i.postimg.cc/NfSNhmTj/image.png" />
+          <div className="my-4 text-4xl font-bold">I KNEW IT! I love you mi amor!! ;))</div>
         </>
       ) : (
         <>
